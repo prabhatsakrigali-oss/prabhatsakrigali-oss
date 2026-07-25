@@ -1,16 +1,100 @@
-## Hi there 👋
+# Hi 👋, I'm PRABHAT RANJAN SINHA
 
-<!--
-**prabhatsakrigali-oss/prabhatsakrigali-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DevOps Engineer | Docker | Kubernetes | Linux | Git | CI/CD | Node.js | MongoDB | Power BI
 
-Here are some ideas to get you started:
+I am a passionate **DevOps Engineer** with hands-on experience in building CI/CD pipelines, containerized applications, and cloud-ready deployment environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy automating deployments, improving software delivery, and learning modern cloud-native technologies.
+
+---
+
+## 🚀 About Me
+
+- 🔭 Working on **DevOps & Cloud Projects**
+- 🌱 Currently learning **AWS & Kubernetes**
+- 💻 Experienced with Docker, GitHub Actions, Linux & Node.js
+- 📊 Also skilled in Power BI and Data Analytics
+- 🎯 Looking for opportunities as a **DevOps Engineer / Cloud Engineer**
+
+---
+
+## 🛠️ Tech Stack
+
+### DevOps
+
+- Docker
+- Kubernetes
+- Linux
+- Git
+- GitHub
+- GitHub Actions
+- CI/CD
+- Nginx
+- Bash
+
+### Backend
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- REST API
+
+### Programming
+
+- JavaScript
+- Python
+- SQL
+
+### Data Analytics
+
+- Power BI
+- DAX
+- Power Query
+- Tableau
+- Microsoft Excel
+
+---
+
+## 🚀 Featured Projects
+
+### NGO Volunteer Management System
+
+Full Stack NGO Management System built using:
+
+- Node.js
+- Express.js
+- MongoDB
+- Docker
+- Kubernetes
+
+Repository
+
+👉 https://github.com/prabhatsakrigali-oss/ngo-volunteer-management-system
+
+---
+
+### DevOps CI/CD Project
+
+Automated Build, Test & Deployment using
+
+- GitHub Actions
+- Docker
+- Linux
+
+---
+
+## 📫 Connect With Me
+
+📧 Email:
+prabhatsakrigali@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/prabhat-sinha-546182293/
+
+🐙 GitHub:
+https://github.com/prabhatsakrigali-oss
+
+---
+
+⭐ Thanks for visiting my profile!
